@@ -39,7 +39,7 @@ THIS IS A TEST RUN
 
 # Socials
 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198144298240/) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=Social&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198144298240/) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 
 
 <!---
