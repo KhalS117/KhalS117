@@ -2,11 +2,7 @@
 
 - 👋 Hi, I’m Khalid Saadi
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning:
-   * Python
-   * C Code
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me: khalidsaadi16@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
