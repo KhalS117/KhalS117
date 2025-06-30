@@ -33,24 +33,37 @@ THIS IS A TEST RUN
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 
-## Ai Assistance
+## Socials
 
-![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=Social&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198144298240/) [![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=Social&logo=Playstation&logoColor=white)](https://profile.playstation.com/inFamousKS)
 
-# Socials
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white)](mailto:khalidsaadi16@gmail.com) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=Social&logo=microsoft-outlook&logoColor=white)](mailto:khalid-16@live.co.uk)
 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=Social&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198144298240/) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white)](mailto:khalidsaadi16@gmail.com)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=Social&logo=whatsapp&logoColor=white)](https://wa.me/447852963970?text=Hello.%20Thank%20you%20for%20checking%20out%20my%20Github%20page.%20Please%20feel%20free%20to%20message%20me%20here%20%21%21%20%3A%29%20)
 
-<a aria-label="Chat on WhatsApp" href="https://wa.me/447852963970?text=Hello.%20Thank%20you%20for%20checking%20out%20my%20Github%20page.%20Please%20feel%20free%20to%20message%20me%20here%20%21%21%20%3A%29%20"> <img alt="Chat on WhatsApp" src="images/ChatOnWhatsAppButton/WhiteTheme/WhatsAppButtonWhiteSmall.svg" />
-<a />
 
 <!---
 KhalS117/KhalS117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 Good link fore badge: https://ileriayo.github.io/markdown-badges/
+--->
+
+
+<!---
+TEST AREA
+
+
+WHATSAPP BADGE: 
+
+<a aria-label="Chat on WhatsApp" href="https://wa.me/447852963970?text=Hello.%20Thank%20you%20for%20checking%20out%20my%20Github%20page.%20Please%20feel%20free%20to%20message%20me%20here%20%21%21%20%3A%29%20"> <img alt="Chat on WhatsApp" src="images/ChatOnWhatsAppButton/WhatsAppButtonGreenSmall.svg" />
+<a />
+
+
+
+## Ai Assistance
+
+![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
+
 --->
