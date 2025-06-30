@@ -43,7 +43,7 @@ THIS IS A TEST RUN
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white)](khalidsaadi16@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=Social&logo=whatsapp&logoColor=white)]("https://wa.me/447852963970?text=Hello.%20Thank%20you%20for%20checking%20out%20my%20Github%20page.%20Please%20feel%20free%20to%20message%20me%20here%20%21%21%20%3A%29%20)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=Social&logo=whatsapp&logoColor=white)](https://wa.me/447852963970?text=Hello.%20Thank%20you%20for%20checking%20out%20my%20Github%20page.%20Please%20feel%20free%20to%20message%20me%20here%20%21%21%20%3A%29%20)
 
 <a aria-label="Chat on WhatsApp" href="https://wa.me/447852963970?text=Hello.%20Thank%20you%20for%20checking%20out%20my%20Github%20page.%20Please%20feel%20free%20to%20message%20me%20here%20%21%21%20%3A%29%20"> <img alt="Chat on WhatsApp" src="images/ChatOnWhatsAppButton/WhiteTheme/WhatsAppButtonWhiteSmall.svg" />
 <a />
