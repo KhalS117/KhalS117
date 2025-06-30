@@ -10,18 +10,18 @@
 
 ---
 
-## 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
 Hi! I'm Khalid — a developer with a physics background and a love for clean, efficient code. Whether I'm scripting in Python, diving into low-level C, or experimenting with front-end tech, I enjoy solving real-world problems through code.
 
-- 🔭 Currently working on: refining my skills in full-stack engineering
-- 🌱 Learning: JavaScript, C#, and modern web frameworks
-- 💬 Ask me about Python, systems programming, or tech tools
+- 🔭 Currently working on: refining my skills in full-stack engineering  
+- 🌱 Learning: JavaScript, C#, and modern web frameworks  
+- 💬 Ask me about Python, systems programming, or tech tools  
 - 📫 Reach me at: khalidsaadi16@gmail.com | [LinkedIn](https://www.linkedin.com/in/khalid-saadi)
 
 ---
 
-## 🧰 What I Code
+<h2 align="center">🧰 What I Code</h2>
 
 <div align="center">
 
@@ -37,7 +37,7 @@ Hi! I'm Khalid — a developer with a physics background and a love for clean, e
 
 ---
 
-## 📚 What I'm Learning
+<h2 align="center">📚 What I'm Learning</h2>
 
 <div align="center">
 
@@ -50,7 +50,7 @@ Hi! I'm Khalid — a developer with a physics background and a love for clean, e
 
 ---
 
-## 🛠️ Tools of the Trade
+<h2 align="center">🛠️ Tools of the Trade</h2>
 
 <div align="center">
 
@@ -67,7 +67,7 @@ Hi! I'm Khalid — a developer with a physics background and a love for clean, e
 
 ---
 
-## 💼 Office Tools
+<h2 align="center">💼 Office Tools</h2>
 
 <div align="center">
 
@@ -80,7 +80,7 @@ Hi! I'm Khalid — a developer with a physics background and a love for clean, e
 
 ---
 
-## 🎮 Gaming Handles
+<h2 align="center">🎮 Gaming Handles</h2>
 
 <div align="center">
 
@@ -94,13 +94,13 @@ Hi! I'm Khalid — a developer with a physics background and a love for clean, e
 
 ---
 
-## 🤝 Connect with Me
+<h2 align="center">🤝 Connect with Me</h2>
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khalidsaadi16@gmail.com) 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=Social&logo=microsoft-outlook&logoColor=white)](mailto:khalid-16@live.co.uk) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-saadi)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-saadi-54661a195/)
 
 </div>
 
@@ -113,7 +113,7 @@ Hi! I'm Khalid — a developer with a physics background and a love for clean, e
 
 ---
 
-## 🛠 Languages and Tools (Visual)
+<h2 align="center">🛠 Languages and Tools (Visual)</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,markdown,swift,latex,c,bash" />
@@ -122,7 +122,7 @@ Hi! I'm Khalid — a developer with a physics background and a love for clean, e
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -134,7 +134,7 @@ Hi! I'm Khalid — a developer with a physics background and a love for clean, e
 
 ---
 
-## 👀 Visitor Counter
+<h2 align="center">👀 Visitor Counter</h2>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/khals117/count.svg" alt="Visitor Count" />
@@ -142,10 +142,7 @@ Hi! I'm Khalid — a developer with a physics background and a love for clean, e
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
-
-
-
+<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
 
 
 
