@@ -41,7 +41,7 @@ THIS IS A TEST RUN
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=Social&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198144298240/) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white)](khalidsaadi16@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white)](mailto:khalidsaadi16@gmail.com)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=Social&logo=whatsapp&logoColor=white)](https://wa.me/447852963970?text=Hello.%20Thank%20you%20for%20checking%20out%20my%20Github%20page.%20Please%20feel%20free%20to%20message%20me%20here%20%21%21%20%3A%29%20)
 
