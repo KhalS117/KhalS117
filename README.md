@@ -32,16 +32,21 @@ THIS IS A TEST RUN
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+
 
 ## Socials
 
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=Social&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198144298240/) [![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=Social&logo=Playstation&logoColor=white)](https://profile.playstation.com/inFamousKS)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=Social&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198144298240/) [![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=Social&logo=Playstation&logoColor=white)](https://profile.playstation.com/inFamousKS) ![Switch](https://img.shields.io/badge/Switch-E60012?style=Sociale&logo=nintendo-switch&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=Social&logo=riotgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=Social&logo=battle.net&logoColor=white)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=Social&logo=gmail&logoColor=white)](mailto:khalidsaadi16@gmail.com) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=Social&logo=microsoft-outlook&logoColor=white)](mailto:khalid-16@live.co.uk)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khalidsaadi16@gmail.com) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=Social&logo=microsoft-outlook&logoColor=white)](mailto:khalid-16@live.co.uk)
 
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=Social&logo=whatsapp&logoColor=white)](https://wa.me/447852963970?text=Hello.%20Thank%20you%20for%20checking%20out%20my%20Github%20page.%20Please%20feel%20free%20to%20message%20me%20here%20%21%21%20%3A%29%20)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=social&logo=whatsapp&logoColor=white)](https://wa.me/447852963970?text=Hello.%20Thank%20you%20for%20checking%20out%20my%20Github%20page.%20Please%20feel%20free%20to%20message%20me%20here%20%21%21%20%3A%29%20)
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=white)](http://https://www.google.com/)
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=social&logo=discord&logoColor=white)](https://discordapp.com/users/362523477233762304)
 
 <!---
 KhalS117/KhalS117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
