@@ -17,7 +17,7 @@ Hi! I'm Khalid — a developer with a physics background and a love for clean, e
 - 🔭 Currently working on: refining my skills in full-stack engineering  
 - 🌱 Learning: JavaScript, C#, and modern web frameworks  
 - 💬 Ask me about Python, systems programming, or tech tools  
-- 📫 Reach me at: khalidsaadi16@gmail.com | [LinkedIn](https://www.linkedin.com/in/khalid-saadi)
+- 📫 Reach me at: [email](mailto:khalidsaadi16@gmail.com) | [LinkedIn](https://www.linkedin.com/in/khalid-saadi-54661a195/i)
 
 ---
 
