@@ -1,6 +1,6 @@
 # Khalid Saadi
 
-Arm. Physics graduate. I build things.
+Physics graduate. I build things.
 
 ---
 
