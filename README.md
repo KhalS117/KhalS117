@@ -36,12 +36,6 @@ Python and Swift project for automated celestial object guidance. iOS prototype 
 - [Learn the Architecture — SME Overview](https://developer.arm.com/documentation/109974/0100/) · Arm Developer · 2025
 - [Matrix-matrix multiplication: Neon, SVE, and SME compared](https://developer.arm.com/community/arm-community-blogs/b/architectures-and-processors-blog/posts/matrix-matrix-multiplication-neon-sve-and-sme-compared) · Arm Community · 2024
 
----
-
-## 📊 Stats
-
-![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalS117&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalS117&layout=compact&theme=dark&hide_border=true)
 
 ---
 
