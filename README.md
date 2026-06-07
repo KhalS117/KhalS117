@@ -1,6 +1,6 @@
 # Khalid Saadi
 
-Developer/Engineer at Arm. Physics graduate. I build things.
+Engineer at Arm. Physics graduate. I build things.
 
 ---
 
@@ -14,6 +14,10 @@ Developer/Engineer at Arm. Physics graduate. I build things.
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Arm](https://img.shields.io/badge/Arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 
 ---
 
@@ -31,6 +35,13 @@ Python and Swift project for automated celestial object guidance. iOS prototype 
 
 - [Learn the Architecture — SME Overview](https://developer.arm.com/documentation/109974/0100/) · Arm Developer · 2025
 - [Matrix-matrix multiplication: Neon, SVE, and SME compared](https://developer.arm.com/community/arm-community-blogs/b/architectures-and-processors-blog/posts/matrix-matrix-multiplication-neon-sve-and-sme-compared) · Arm Community · 2024
+
+---
+
+## 📊 Stats
+
+![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhalS117&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalS117&layout=compact&theme=dark&hide_border=true)
 
 ---
 
