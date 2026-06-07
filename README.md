@@ -1,6 +1,6 @@
 # Khalid Saadi
 
-Engineer at Arm. Physics graduate. I build things.
+Developer at Arm. Physics graduate. I build things.
 
 ---
 
